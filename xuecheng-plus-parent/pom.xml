@@ -34,7 +34,7 @@
     </properties>
 
 
-
+    <dependencyManagement>
         <dependencies>
 
             <dependency>
@@ -185,7 +185,7 @@
             </dependency>
         </dependencies>
 
-
+    </dependencyManagement>
 
     <build>
         <finalName>${project.name}</finalName>
